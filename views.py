@@ -4,6 +4,7 @@ import os
 import subprocess
 
 
+
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/' + "vfg/solver"))
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/' + "vfg/parser"))
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/' + "vfg/adapter"))
